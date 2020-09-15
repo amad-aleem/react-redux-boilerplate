@@ -1,0 +1,4 @@
+// Sign up constants
+export const GET_ALL_BREEDS = 'GET_ALL_BREEDS'
+export const GET_ALL_BREEDS_SUCCESS = 'GET_ALL_BREEDS_SUCCESS'
+export const GET_ALL_BREEDS_ERROR = 'GET_ALL_BREEDS_ERROR'
