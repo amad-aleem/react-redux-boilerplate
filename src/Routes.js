@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Router, Route, Switch, Redirect } from 'react-router-dom';
-import Home from './components/Screens/Home/Home';
+import Home from './components/Home/Home';
 import { createBrowserHistory } from "history";
 
 const history = createBrowserHistory();
